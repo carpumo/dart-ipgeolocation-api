@@ -1,0 +1,17 @@
+name: ip_geolocation_api
+description: REcibir datos de Geolocalización
+version: 0.0.1
+author: Carlos Puya
+homepage: https://dina.ec
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  
+
+dependencies:
+  http: ^0.12.2
+  meta: ^1.1.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
